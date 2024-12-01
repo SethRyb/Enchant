@@ -1,0 +1,93 @@
+Excavation - Allows you to mine a 1x2, + shape, 3x3, or bigger area of blocks rather than just 1, effect can be cancelled by holding shift. Mine-able blocks can be configured.
+
+Deforestation - Allows you to cut down entire trees with just 1 block mined.
+
+Telekinesis - Allows the drops from broken blocks to be transferred directly to your inventory
+
+Kinship - When mining an ore of the material that matches your pickaxe (diamond ore by a diamond pickaxe for example) it repairs some durability.
+
+Sunforged - Smelts the drops from the blocks you mined, fully configurable.
+
+Illuminated - Right clicking with an illuminated tool places a torch at the cost of some durability.
+
+Harvesting - Right clicking on a fully grown crop will instantly harvest it and replant it.
+
+Rapid Fire - Grants a chance to fire several arrows in rapid succession, each dealing reduced damage but stripping the target off their immunity frames allowing you to potentially deal much increased damage if you hit all your arrows. Also, each arrow can of course activate other on-hit enchantments.
+
+Rope Dart - Hitting an enemy has a chance of "attaching a rope" to them (not visually) and pulling them closer to you after a delay.
+
+Neutralizer - Shield enchant, when you get hit by a splash or lingering potion and you're blocking you don't get affected by it.
+
+Potency - When drinking a potion, its strength increases while its duration decreases. Strength II for 1:30 could become Strength IV for 0:45 for example.
+
+Vitality - You heal a % more from everything.
+
+Vigorous - Your max HP is increased.
+
+Plated - The item grants you additional armor value
+
+Shielding - You have a chance to deflect a projectile that would otherwise hit you.
+
+Steady - You gain more knock-back resistance.
+
+Metabolism - You slowly regenerate hunger points.
+
+Wings - You can fly for some time at the cost of durability. Flight recharges while standing on the ground.
+
+Soul Eater - Provides some lifesteal, and gain an additional burst of health when you kill something.
+
+Sapping - When killing an entity, it drops more EXP.
+
+Executioner - Adds a chance for mobs like creepers, players, skeletons, to drop their head.
+
+Shockwave - When right-clicking on the top surface of a block, it causes a shockwave that sends all surrounding mobs flying backwards. Has a cooldown and is reduced by enemy knockback protection.
+
+Toxic - Damaging a mob or player reduces their healing by a % for a certain amount of time.
+
+Crushing - When damaging a mob or player, if they're wearing heavy armor(iron, gold, diamond) your damage is increased by a % for each piece they're wearing.
+
+Perforating - Identical to Crushing, except for light armors (leather, chain, diamond. Yes, diamond is much lighter than iron or gold)
+
+Scattershot - Shooting a mob or player damages all entities in a radius around the target with a fraction of the damage.
+
+Soulbound - Items with soulbound will not be dropped on death, and spawned back in your inventory when you respawn.
+
+Rejuvenation - Slowly regenerates durability.
+
+Lava Walker - Frost walker but for lava, transforms nearby lava blocks into temporary magma blocks at the cost of durability.
+
+Basalt Skin - Grants the user fire resistance while worn/held, but also slowing them down while they're on fire.
+
+Barbarian - Provides increased attack damage
+
+Fleeting - Provides increased movement speed
+
+Will 'o' Wisp - Entities killed explode to deal damage and ignite surrounding entities!
+
+Earthshaker - Immunity to fall damage. Drop on the ground from large distances to create an explosion, increasing in damage and radius the further you dropped from. On 1.20.5+, sneaking also speeds up how fast you fall!
+
+Brittle - Reverse Unbreaking, item takes more damage.
+Parasitic - Slowly makes you hungrier.
+Burden - Makes all your movement slower.
+
+Pact of the Berserker - Increases your damage, but you also take more damage!
+
+Pact of the Perfectionist - Decreases your damage, but gain increased damage per hit until you're hit yourself!
+
+As well as a number of other enchants that just give you potion effects while held/worn or give the entity you're attacking potion effects.
+
+While held/worn:
+- Blessing gives you Luck
+- Gills gives you Water Breathing
+- Night Vision gives you... well you know.
+- Leaping gives you Jump Boost
+- Quickened gives you Haste
+
+When damaging something:
+- Blinding might Blind the enemy
+- Concussion might Nauseate the enemy
+- Poisoning might Poison the enemy
+- Crippling might Slow the enemy
+- Weakening might Weaken the enemy
+- Withering might Wither the enemy
+- Blunt might Stun the enemy
